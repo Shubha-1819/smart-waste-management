@@ -1,0 +1,10 @@
+{
+  "name": "azure-functions",
+  "version": "1.0.0",
+  "description": "Smart Waste Management Cloud Backend",
+  "main": "src/functions/*.js",
+  "dependencies": {
+    "@azure/cosmos": "^4.0.0",
+    "@azure/functions": "^4.0.0"
+  }
+}
